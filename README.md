@@ -2,7 +2,7 @@
 
 ![Ford GoBike](./image/Ford_GoBikes.jpg)
 
-Link blog: [Link Blog](https://github.com/dibang99/data_scientist_project/blog_post.md)
+Link blog: [Link Blog](https://github.com/dibang99/data_scientist_project/blob/main/blog_post.md)
 
 ## Domain Background
 
